@@ -42,14 +42,14 @@ From a risk standpoint, there may be some regulatory and compliance issues that 
 
 ## Citations
 
-[TransferWise 2019 Annual Report] (https://transferwise.com/gb/blog/annualreport2019)
+[TransferWise 2019 Annual Report](https://transferwise.com/gb/blog/annualreport2019)
 
-TransferWise [Website] (https://transferwise.com/us)
+TransferWise [Website](https://transferwise.com/us)
 
 [Product Mint] (https://productmint.com/the-transferwise-business-model-how-does-transferwise-make-money/#TransferWise_Valuation,_Funding,_Revenue_Potential_IPO) The TransferWise Business Model - How Does TransferWise Work & Make Money
 
-[TransferWise Stackshare Profile] (https://stackshare.io/transferwise#stacks)
+[TransferWise Stackshare Profile](https://stackshare.io/transferwise#stacks)
 
-The FinTech Times: [Modern Techbology for Cross-Border Payments] (https://thefintechtimes.com/cross-border-payments/)
+The FinTech Times: [Modern Techbology for Cross-Border Payments](https://thefintechtimes.com/cross-border-payments/)
 
-Medium: [The TransferWise Stack, 2020 Edition] (https://medium.com/transferwise-engineering/the-transferwise-stack-2020-edition-68f70267501b)
+Medium: [The TransferWise Stack, 2020 Edition](https://medium.com/transferwise-engineering/the-transferwise-stack-2020-edition-68f70267501b)
