@@ -46,7 +46,7 @@ From a risk standpoint, there may be some regulatory and compliance issues that 
 
 TransferWise [Website](https://transferwise.com/us)
 
-[Product Mint] (https://productmint.com/the-transferwise-business-model-how-does-transferwise-make-money/#TransferWise_Valuation,_Funding,_Revenue_Potential_IPO) The TransferWise Business Model - How Does TransferWise Work & Make Money
+[Product Mint](https://productmint.com/the-transferwise-business-model-how-does-transferwise-make-money/#TransferWise_Valuation,_Funding,_Revenue_Potential_IPO) The TransferWise Business Model - How Does TransferWise Work & Make Money
 
 [TransferWise Stackshare Profile](https://stackshare.io/transferwise#stacks)
 
